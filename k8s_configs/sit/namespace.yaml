@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: myapp-sit
+  labels:
+    app: myapp
+    costcenter: dvsaidevops
+  namespace: myapp-sit
+---
