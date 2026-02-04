@@ -5,7 +5,7 @@ metadata:
   namespace: myapp-prod
   labels:
     app: myapp
-    costcenter: dvsaidevops
+    costcenter: aidevops
 spec:
   replicas: 3
   selector:
@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: myapp:v1.0.0
+        image: myapp:v1.0.1
         ports:
         - containerPort: 8080
 ---

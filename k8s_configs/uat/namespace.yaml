@@ -4,6 +4,6 @@ metadata:
   name: myapp-uat
   labels:
     app: myapp
-    costcenter: dvsaidevops
+    costcenter: aidevops
   namespace: myapp-uat
 ---
