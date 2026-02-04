@@ -4,6 +4,6 @@ metadata:
   name: myapp-preprod
   labels:
     app: myapp
-    costcenter: dvsaidevops
+    costcenter: aidevops
   namespace: myapp-preprod
 ---

@@ -5,7 +5,7 @@ metadata:
   namespace: myapp-preprod
   labels:
     app: myapp
-    costcenter: dvsaidevops
+    costcenter: aidevops
 data:
   APP_ENV: production
   LOG_LEVEL: info

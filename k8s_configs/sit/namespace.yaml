@@ -4,6 +4,6 @@ metadata:
   name: myapp-sit
   labels:
     app: myapp
-    costcenter: dvsaidevops
+    costcenter: aidevops
   namespace: myapp-sit
 ---

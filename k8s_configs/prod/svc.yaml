@@ -5,7 +5,7 @@ metadata:
   namespace: myapp-prod
   labels:
     app: myapp
-    costcenter: dvsaidevops
+    costcenter: aidevops
 spec:
   type: ClusterIP
   selector:
